@@ -47,5 +47,5 @@ The projects in this repository were created for learning and portfolio purposes
 
 ## Author
 
-Davin Syahputra  
+Dani Novrian  
 Mathematics Graduate | Interested in Finance, Risk, and Data Analysis
